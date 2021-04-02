@@ -1,0 +1,1969 @@
+{
+  "current": {
+    "heading_color": "#000000",
+    "text_color": "#677279",
+    "accent_color": "#000000",
+    "link_color": "#000000",
+    "border_color": "#e1e3e4",
+    "background": "#ffffff",
+    "secondary_background": "#ffffff",
+    "error_color": "#ff0000",
+    "success_color": "#00aa00",
+    "primary_button_background": "#000000",
+    "primary_button_text_color": "#ffffff",
+    "secondary_button_background": "#000000",
+    "secondary_button_text_color": "#ffffff",
+    "header_background": "#ffffff",
+    "header_text_color": "#000000",
+    "header_light_text_color": "#000000",
+    "header_accent_color": "#000000",
+    "footer_background_color": "#191919",
+    "footer_heading_text_color": "#ffffff",
+    "footer_body_text_color": "#ffffff",
+    "footer_accent_color": "#ffffff",
+    "product_on_sale_accent": "#ee0000",
+    "product_in_stock_color": "#008a00",
+    "product_low_stock_color": "#ee0000",
+    "product_sold_out_color": "#8a9297",
+    "product_label_1_background": "#008a00",
+    "product_label_2_background": "#00a500",
+    "product_star_color": "#ffbd00",
+    "base_text_font_size": 16,
+    "heading_font": "din_next_n5",
+    "text_font": "din_next_n4",
+    "underline_links": true,
+    "animation_image_zoom": true,
+    "search_mode": "product,article",
+    "show_vendor": false,
+    "show_secondary_image": true,
+    "show_discount": true,
+    "discount_mode": "saving",
+    "product_price_position": "after_title",
+    "product_image_size": "natural",
+    "show_color_swatch": false,
+    "show_inventory_quantity": false,
+    "low_inventory_threshold": 0,
+    "show_reviews_badge": false,
+    "cart_type": "drawer",
+    "cart_empty_button_link": "shopify:\/\/collections\/all",
+    "cart_show_checkout_button": true,
+    "cart_show_free_shipping_threshold": false,
+    "cart_free_shipping_threshold": "50",
+    "social_facebook": "https:\/\/www.facebook.com\/formatthitechusa",
+    "social_twitter": "https:\/\/twitter.com\/formatthitechus",
+    "social_pinterest": "",
+    "social_instagram": "https:\/\/instagram.com\/formatt_hitechusa",
+    "social_vimeo": "",
+    "social_tumblr": "",
+    "social_youtube": "https:\/\/www.youtube.com\/channel\/UCLFPIy58IsBW92XXndIc85A",
+    "social_linkedin": "",
+    "social_snapchat": "",
+    "social_fancy": "",
+    "favicon": "shopify:\/\/shop_images\/FH-favicon.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#00badb",
+    "checkout_button_color": "#00badb",
+    "checkout_error_color": "#ff0000",
+    "share_image": "",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "906ecf7a-9f40-426f-9893-5af61f62c9dd": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "Shop",
+              "image_1": "shopify:\/\/shop_images\/dustin_photo.png",
+              "image_1_heading": "Photography",
+              "image_1_text": "",
+              "image_1_link": "shopify:\/\/collections\/photography-filters",
+              "image_2": "shopify:\/\/shop_images\/IMG_0415-small.jpg",
+              "image_2_heading": "Cinema",
+              "image_2_text": "",
+              "image_2_link": "shopify:\/\/collections\/cinema-filters"
+            }
+          }
+        },
+        "block_order": [
+          "906ecf7a-9f40-426f-9893-5af61f62c9dd"
+        ],
+        "settings": {
+          "enable_sticky_header": true,
+          "logo": "shopify:\/\/shop_images\/formatt-hitech-logo.png",
+          "logo_max_width": 140,
+          "mobile_logo_max_width": 100,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "navigation_menu": "formattnew",
+          "desktop_navigation_layout": "inline",
+          "desktop_navigation_open_trigger": "hover",
+          "show_navigation_social_media": true,
+          "navigation_phone_number": "Call us (714) 766-3310",
+          "navigation_email": "formatt-hitech@fktamerica.com",
+          "show_condensed_search": true,
+          "show_search_filter": true,
+          "search_menu": "",
+          "show_search_menu_title": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-1": {
+            "type": "links",
+            "settings": {
+              "menu": "footer"
+            }
+          },
+          "d72e8861-60b7-4a81-ad7f-98f79a80c764": {
+            "type": "links",
+            "settings": {
+              "menu": "legal"
+            }
+          },
+          "footer-0": {
+            "type": "text",
+            "settings": {
+              "title": "About the shop",
+              "content": "<p>Formatt KT America, Inc.<br\/>5912 Bolsa Ave. Suite #202<br\/>Huntington Beach, CA 92649<\/p>"
+            }
+          },
+          "footer-2": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Get news and updates",
+              "subheading": "<p>Sign up for exclusive deals and product notices.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-1",
+          "d72e8861-60b7-4a81-ad7f-98f79a80c764",
+          "footer-0",
+          "footer-2"
+        ],
+        "settings": {
+          "show_social_media": true,
+          "show_payment_icons": true,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_cookie_bar": false,
+          "text": "<p>Use this bar to show information about your cookie policy.<\/p>",
+          "accept_button": "Accept"
+        }
+      },
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "slide-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Patagonia_bkg.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Slideshow_mobile_456fd72f-243d-49cd-97d1-2788bd1503af.jpg",
+              "show_overlay": true,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "Formatt Hitech USA",
+              "content": "THE WORLD’S LEADING MANUFACTURER OF PROFESSIONAL QUALITY FILTERS FOR PHOTOGRAPHY, CINEMATOGRAPHY AND BROADCAST",
+              "content_position": "middle_center",
+              "button_background": "#00badb",
+              "button_text_color": "#ffffff",
+              "button_text": "Discover Now",
+              "link": "shopify:\/\/collections\/best-selling"
+            }
+          }
+        },
+        "block_order": [
+          "slide-0"
+        ],
+        "settings": {
+          "edge_to_edge": true,
+          "section_size": "preserve_ratio",
+          "carousel_effect": "slide",
+          "autoplay": false,
+          "cycle_speed": 8
+        }
+      },
+      "collection-list": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "collection-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "100mm-filter-holders",
+              "link": "shopify:\/\/collections\/100mm-filter-holders"
+            }
+          },
+          "collection-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "85mm-filter-holders",
+              "link": "shopify:\/\/collections\/85mm-filter-holders"
+            }
+          },
+          "collection-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "cinema-filters",
+              "link": "shopify:\/\/collections\/cinema-filters"
+            }
+          },
+          "collection-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "circular-polariser-filters",
+              "link": "shopify:\/\/collections\/circular-polariser-filters"
+            }
+          },
+          "collection-4": {
+            "type": "collection",
+            "settings": {
+              "collection": "clearance",
+              "link": "shopify:\/\/collections\/clearance"
+            }
+          },
+          "collection-5": {
+            "type": "collection",
+            "settings": {
+              "collection": "firecrest-ultra",
+              "link": "shopify:\/\/collections\/firecrest-ultra"
+            }
+          },
+          "b1d226b4-bfd4-4248-92b3-fdcb8da93f4e": {
+            "type": "collection",
+            "settings": {
+              "collection": "onyx",
+              "link": "shopify:\/\/collections\/onyx"
+            }
+          },
+          "1484821b-51b9-4553-afe5-d14954f896d6": {
+            "type": "collection",
+            "settings": {
+              "collection": "polarizer",
+              "link": "shopify:\/\/collections\/polarizer"
+            }
+          },
+          "7f050669-1cd9-42b5-9af4-e20994b47617": {
+            "type": "collection",
+            "settings": {
+              "collection": "photography-filters",
+              "link": "shopify:\/\/collections\/photography-filters"
+            }
+          }
+        },
+        "block_order": [
+          "collection-0",
+          "collection-1",
+          "collection-2",
+          "collection-3",
+          "collection-4",
+          "collection-5",
+          "b1d226b4-bfd4-4248-92b3-fdcb8da93f4e",
+          "1484821b-51b9-4553-afe5-d14954f896d6",
+          "7f050669-1cd9-42b5-9af4-e20994b47617"
+        ],
+        "settings": {
+          "title": "Products",
+          "link_title": "View all",
+          "link": "shopify:\/\/collections",
+          "round_images": false,
+          "show_collection_title": true
+        }
+      },
+      "featured-product": {
+        "type": "featured-product",
+        "disabled": true,
+        "settings": {
+          "product": "",
+          "title": "Featured product",
+          "link_title": "View details",
+          "show_vendor": true,
+          "show_sku": false,
+          "show_share_buttons": true,
+          "show_description": true,
+          "description_below_add_to_cart": false,
+          "selector_mode": "block",
+          "color_mode": "color",
+          "show_quantity_selector": true,
+          "show_reviews_badge": false,
+          "show_payment_button": true,
+          "show_pickup_availability": false,
+          "image_size": "small",
+          "enable_image_zoom": true,
+          "enable_video_looping": false,
+          "zoom_effect": "outside",
+          "carousel_effect": "fade",
+          "show_inventory_quantity": false,
+          "low_inventory_threshold": 0
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "show_collection_image": true,
+          "collapse_collection_description": false,
+          "collection_image_size": "small",
+          "products_per_row": "4",
+          "default_products_per_page": 36,
+          "default_view_layout": "grid",
+          "show_quick_buy": "list",
+          "show_quick_view": "list",
+          "quick_links": "",
+          "quick_links_show_products_count": true,
+          "show_filters": false,
+          "show_filter_color_swatch": false,
+          "filter_type": "tag",
+          "open_group_filters_mode": "all_closed",
+          "filter_group_order": ""
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "title": "Recently viewed"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_vendor": false,
+          "show_sku": true,
+          "show_share_buttons": true,
+          "show_taxes_included": false,
+          "selector_mode": "block",
+          "color_mode": "color",
+          "show_quantity_selector": true,
+          "show_payment_button": true,
+          "show_pickup_availability": false,
+          "image_size": "small",
+          "enable_video_looping": false,
+          "enable_image_zoom": true,
+          "zoom_effect": "outside",
+          "carousel_effect": "fade",
+          "show_inventory_quantity": false,
+          "low_inventory_threshold": 0,
+          "content_display_mode": "show_all_and_expand_description",
+          "tab_page_1_handle": "",
+          "tab_page_2_handle": "",
+          "tab_page_3_handle": "",
+          "enable_reviews": false,
+          "show_reviews_badge": false,
+          "trust_title": "Payment & Security",
+          "show_payment_icons": true,
+          "custom_security_badge_width": 200,
+          "show_shipping_estimator": true,
+          "shipping_estimator_default_country": "United States",
+          "show_refunds_policy": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "You may also like",
+          "show_quick_buy": false
+        }
+      },
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "show_announcement": false,
+          "background": "#ffffff",
+          "text_color": "#1e2d7d",
+          "text": "Announce something here",
+          "text_position": "left",
+          "show_newsletter": true,
+          "newsletter_button": "Subscribe & Save",
+          "newsletter_title": "Newsletter",
+          "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+        }
+      },
+      "1542984882560": {
+        "type": "blog-posts",
+        "settings": {
+          "blog": "learn",
+          "blog_posts_count": 30,
+          "title": "Learn",
+          "link_title": "View all",
+          "show_category": false,
+          "show_author": false,
+          "show_date": false,
+          "show_excerpt": true,
+          "stack_mobile": false
+        }
+      },
+      "popups": {
+        "type": "popups",
+        "settings": {}
+      },
+      "text-with-icons": {
+        "type": "text-with-icons",
+        "blocks": {
+          "text-with-icons-0": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-delivery",
+              "title": "Free delivery worldwide",
+              "content": "<p>We deliver in 5 days max!<\/p>"
+            }
+          },
+          "text-with-icons-1": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-returns",
+              "title": "Satisfied or refunded",
+              "content": "<p>Free returns within 14 days<\/p>"
+            }
+          },
+          "text-with-icons-2": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-customer-support",
+              "title": "Top-notch support",
+              "content": "<p>Contact us by chat, mail, phone<\/p>"
+            }
+          },
+          "text-with-icons-3": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-secure-payment",
+              "title": "Secure payments",
+              "content": "<p>Visa, Mastercard, Amex, PayPal<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "text-with-icons-0",
+          "text-with-icons-1",
+          "text-with-icons-2",
+          "text-with-icons-3"
+        ],
+        "settings": {
+          "show_section": false,
+          "stack_mobile": false
+        }
+      },
+      "1614934250a76d7425": {
+        "type": "mosaic",
+        "blocks": {
+          "1614934250a76d7425-1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/nick_watson_1100x1100_b0b97d34-9122-49cf-98b6-abc88e3cd208.png",
+              "show_overlay": true,
+              "overlay_opacity": 40,
+              "background": "#ffffff",
+              "text_color": "#ffffff",
+              "title": "Firecrest Ultra IRND",
+              "content": "Premium bonded and polished filters for superior results",
+              "content_position": "top_left",
+              "button_background": "#000000",
+              "button_text_color": "#ffffff",
+              "button_text": "Shop Now",
+              "link": "shopify:\/\/collections\/firecrest-ultra"
+            }
+          },
+          "1614934250a76d7425-0": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Davidr2R.jpg",
+              "show_overlay": true,
+              "overlay_opacity": 40,
+              "background": "#ffffff",
+              "text_color": "#ffffff",
+              "title": "Onyx",
+              "content": "85mm toughened mineral glass for demanding conditions",
+              "content_position": "top_left",
+              "button_background": "#000000",
+              "button_text_color": "#ffffff",
+              "button_text": "Shop Now",
+              "link": "shopify:\/\/collections\/onyx"
+            }
+          },
+          "1614934250a76d7425-3": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Elia-Locardi-Travel-Photography-Roman-Radiance-Rome-Italy-1600-WM-DM.jpg",
+              "show_overlay": true,
+              "overlay_opacity": 30,
+              "background": "#ffffff",
+              "text_color": "#ffffff",
+              "title": "Signature Artist Kits",
+              "content": "Kits hand selected by world class master photographers",
+              "content_position": "top_left",
+              "button_background": "#000000",
+              "button_text_color": "#ffffff",
+              "button_text": "Shop Now",
+              "link": "shopify:\/\/collections\/signature-edition-artists"
+            }
+          },
+          "1614934250a76d7425-2": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_0726-small.jpg",
+              "show_overlay": true,
+              "overlay_opacity": 30,
+              "background": "#f3f4f4",
+              "text_color": "#ffffff",
+              "title": "Cinema",
+              "content": "Professional optical filters trusted by major feature films to indie productions",
+              "content_position": "top_left",
+              "button_background": "#000000",
+              "button_text_color": "#ffffff",
+              "button_text": "Shop Now",
+              "link": "shopify:\/\/collections\/cinema-filters"
+            }
+          },
+          "1614934250a76d7425-4": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/mark_mcneil_800x520_nightscape.png",
+              "show_overlay": true,
+              "overlay_opacity": 30,
+              "background": "#ffffff",
+              "text_color": "#ffffff",
+              "title": "Firecrest Nightscape",
+              "content": "Capture stunning nightscapes with less light pollution",
+              "content_position": "top_left",
+              "button_background": "#000000",
+              "button_text_color": "#ffffff",
+              "button_text": "Shop Now",
+              "link": "shopify:\/\/products\/firecrest-100mm-nightscape-light-pollution-filter"
+            }
+          }
+        },
+        "block_order": [
+          "1614934250a76d7425-1",
+          "1614934250a76d7425-0",
+          "1614934250a76d7425-3",
+          "1614934250a76d7425-2",
+          "1614934250a76d7425-4"
+        ],
+        "settings": {
+          "section_size": "medium"
+        }
+      },
+      "1614976304dd716b9e": {
+        "type": "collection-with-image",
+        "settings": {
+          "collection": "circular-polariser-filters",
+          "products_count": 24,
+          "background": "#ffffff",
+          "text_color": "#000000",
+          "title": "Polarizers",
+          "content": "Enhance colors and control reflections with our best quality polarizers",
+          "button_background": "#000000",
+          "button_text_color": "#ffffff",
+          "button_text": "Shop Now",
+          "button_link": "shopify:\/\/collections\/polarizer"
+        }
+      },
+      "161498117378309162": {
+        "type": "collection-with-image",
+        "settings": {
+          "collection": "firecrest-nightscape",
+          "products_count": 48,
+          "background": "#ffffff",
+          "text_color": "#000000",
+          "title": "Firecrest Nightscape",
+          "content": "Nightscape is a night photography filter designed to remove light spectrums associated with light pollution and sodium lamps.",
+          "button_background": "#000000",
+          "button_text_color": "#ffffff",
+          "button_text": "Shop Now",
+          "button_link": "shopify:\/\/products\/firecrest-100mm-nightscape-light-pollution-filter"
+        }
+      },
+      "161521999632df5688": {
+        "type": "image-with-text",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/FC_Square_2048x_6834630b-ce7c-4538-af75-25bd4dd40ecb.png",
+          "image_position": "right",
+          "image_width": 30,
+          "title": "The Science of Light",
+          "content": "<p>Formatt Hitech is the first company to apply advanced science and technology to the development of filters for digital photography and cinema. Our Firecrest coating technology allows us to manufacture filters designed for use with the ultra-high megapixel cameras on the market today. With Firecrest, we now offer the most neutral ND filters on the market, the darkest ND filters on the market, and our circular filters are offered in the thinnest rings on the market. Formatt Hitech filters are carefully crafted in the UK.<\/p>",
+          "button_text": "Shop All Now",
+          "button_link": "shopify:\/\/collections\/all"
+        }
+      },
+      "static-promotion-list": {
+        "type": "static-promotion-list",
+        "settings": {
+          "expand_items": false,
+          "section_size": "medium",
+          "stack_mobile": false
+        }
+      },
+      "static-recently-viewed-products": {
+        "type": "static-recently-viewed-products",
+        "settings": {
+          "show_section": true,
+          "title": "Recently viewed",
+          "show_quick_buy": false
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "collections_to_show": "all",
+          "show_collection_title": true,
+          "show_collection_overlay": true,
+          "collection_overlay_opacity": 20
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "articles_per_page": 15,
+          "highlight_first_article": false,
+          "show_tags": false,
+          "show_category": false,
+          "show_author": false,
+          "show_date": false,
+          "show_excerpt": true
+        }
+      },
+      "blog-sidebar": {
+        "type": "blog-sidebar",
+        "settings": {
+          "show_on_mobile": true
+        }
+      },
+      "static-newsletter": {
+        "type": "static-newsletter",
+        "settings": {
+          "show_section": true,
+          "title": "Subscribe to our newsletter",
+          "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>",
+          "subtext": "100% free, Unsubscribe any time!",
+          "background": "#1e2d7d",
+          "text": "#ffffff"
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "show_category": false,
+          "show_author": false,
+          "show_date": false,
+          "show_share_buttons": true,
+          "show_tags": true,
+          "show_gravatar": true
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "enable_order_notes": true,
+          "show_payment_icons": true,
+          "gift_wrap_product": "",
+          "gift_wrap_text": "Do you want a gift wrap?",
+          "gift_wrap_button": "Add a gift wrap",
+          "show_shipping_estimator": true,
+          "shipping_estimator_default_country": "United States",
+          "trust_heading": "Our guarantees",
+          "upsell_heading": "Complete your cart",
+          "upsell_collection": "",
+          "upsell_products_count": 4
+        }
+      },
+      "1615267027dec560e0": {
+        "type": "collection-with-image",
+        "settings": {
+          "collection": "signature-edition-artists",
+          "products_count": 8,
+          "background": "#ffffff",
+          "text_color": "#000000",
+          "title": "Signature Artist Kits",
+          "content": "Filter kits hand selected by Formatt  Hitech Signature Artists. Use the same filters world renowned professionals use every day.",
+          "button_background": "#000000",
+          "button_text_color": "#ffffff",
+          "button_text": "Shop Now",
+          "button_link": "shopify:\/\/collections\/signature-edition-artists"
+        }
+      },
+      "1615267483ca55c88e": {
+        "type": "slideshow",
+        "blocks": {
+          "1615267483ca55c88e-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/holder_kit_WEB.jpg",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "Introducing the Firecrest 100mm Filter Holder MKII",
+              "content": "For the MKII, we went back to the drawing board and worked closely with an extensive team of industry leading photographers to build upon the successes of the MKI, whilst taking into account the feedback from our users in order to refine and improve upon every aspect of our holder.",
+              "content_position": "middle_center",
+              "button_background": "#000000",
+              "button_text_color": "#f3f5f6",
+              "button_text": ""
+            }
+          }
+        },
+        "block_order": [
+          "1615267483ca55c88e-0"
+        ],
+        "settings": {
+          "edge_to_edge": true,
+          "section_size": "large",
+          "carousel_effect": "slide",
+          "autoplay": false,
+          "cycle_speed": 8
+        }
+      },
+      "16152687677c498bd5": {
+        "type": "slideshow",
+        "blocks": {
+          "16152687677c498bd5-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Signature_Series_Banner_cdfb2e38-f0c5-4970-9ef8-00e2e079f0a9.jpg",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "Button"
+            }
+          }
+        },
+        "block_order": [
+          "16152687677c498bd5-0"
+        ],
+        "settings": {
+          "edge_to_edge": true,
+          "section_size": "preserve_ratio",
+          "carousel_effect": "slide",
+          "autoplay": false,
+          "cycle_speed": 8
+        }
+      },
+      "1615268963aba23a3d": {
+        "type": "slideshow",
+        "blocks": {
+          "1615268963aba23a3d-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Nightscape.jpg",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "Firecrest Nightscape",
+              "content": "Block specific wavelengths of urban lights for stunning nightscapes",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": ""
+            }
+          }
+        },
+        "block_order": [
+          "1615268963aba23a3d-0"
+        ],
+        "settings": {
+          "edge_to_edge": true,
+          "section_size": "large",
+          "carousel_effect": "slide",
+          "autoplay": false,
+          "cycle_speed": 8
+        }
+      },
+      "1615269028b4d8b9af": {
+        "type": "slideshow",
+        "blocks": {
+          "1615269028b4d8b9af-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Tokina1120FirecrestFront.jpg",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "Cinema Filters",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": ""
+            }
+          }
+        },
+        "block_order": [
+          "1615269028b4d8b9af-0"
+        ],
+        "settings": {
+          "edge_to_edge": true,
+          "section_size": "large",
+          "carousel_effect": "slide",
+          "autoplay": false,
+          "cycle_speed": 8
+        }
+      },
+      "16152690830edc1264": {
+        "type": "collection-with-image",
+        "settings": {
+          "collection": "cinema-filters",
+          "products_count": 48,
+          "background": "#f3f5f6",
+          "text_color": "#000000",
+          "title": "Cinema Filters",
+          "content": "Premium quality optical filters made for motion picture production",
+          "button_background": "#000000",
+          "button_text_color": "#ffffff",
+          "button_text": "Shop Now",
+          "button_link": "shopify:\/\/collections\/cinema-filters"
+        }
+      },
+      "16152694810a159836": {
+        "type": "slideshow",
+        "blocks": {
+          "16152694810a159836-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/The_Awakening_-_Morain_Lake_-_Alberta_-_Canada_Patrick_Millar.jpg",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "Polarizer",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "Button"
+            }
+          }
+        },
+        "block_order": [
+          "16152694810a159836-0"
+        ],
+        "settings": {
+          "edge_to_edge": true,
+          "section_size": "large",
+          "carousel_effect": "slide",
+          "autoplay": false,
+          "cycle_speed": 8
+        }
+      },
+      "161526965263ccc36a": {
+        "type": "collection-with-image",
+        "settings": {
+          "collection": "clearance-1",
+          "products_count": 12,
+          "background": "#ffffff",
+          "text_color": "#000000",
+          "title": "Clearance",
+          "content": "Save big on our open box and discontinued items!",
+          "button_background": "#000000",
+          "button_text_color": "#ffffff",
+          "button_text": "Shop Now",
+          "button_link": "shopify:\/\/collections\/clearance-1"
+        }
+      },
+      "161540883223590529": {
+        "type": "collection-with-image",
+        "settings": {
+          "collection": "onyx",
+          "products_count": 48,
+          "background": "#f3f5f6",
+          "text_color": "#000000",
+          "title": "Onyx",
+          "content": "Compact 85mm filters made from hardened mineral glass. Perfect for travel and tough shooting conditions.",
+          "button_background": "#000000",
+          "button_text_color": "#ffffff",
+          "button_text": "Shop Now",
+          "button_link": "shopify:\/\/collections\/onyx"
+        }
+      },
+      "16154092463addd7ae": {
+        "type": "slideshow",
+        "blocks": {
+          "16154092463addd7ae-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1037181-web.jpg",
+              "show_overlay": true,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "Onyx",
+              "content": "Compact 85mm filters made from hardened mineral glass. Perfect for travel and tough shooting conditions.",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "Button"
+            }
+          }
+        },
+        "block_order": [
+          "16154092463addd7ae-0"
+        ],
+        "settings": {
+          "edge_to_edge": true,
+          "section_size": "large",
+          "carousel_effect": "slide",
+          "autoplay": false,
+          "cycle_speed": 8
+        }
+      },
+      "16154095981398ad66": {
+        "type": "collection-with-image",
+        "settings": {
+          "collection": "filter-holders",
+          "products_count": 4,
+          "background": "#ffffff",
+          "text_color": "#000000",
+          "title": "Filter Holders",
+          "content": "Choose the best holder for your needs. Designed specifically for ease of use and best results from your Firecrest filters.",
+          "button_background": "#000000",
+          "button_text_color": "#ffffff",
+          "button_text": "Shop Now",
+          "button_link": "shopify:\/\/collections\/filter-holders"
+        }
+      }
+    },
+    "content_for_index": [
+      "slideshow",
+      "1614934250a76d7425",
+      "161521999632df5688",
+      "1615267483ca55c88e",
+      "16154095981398ad66",
+      "16152687677c498bd5",
+      "1615267027dec560e0",
+      "16154092463addd7ae",
+      "161540883223590529",
+      "1615268963aba23a3d",
+      "161498117378309162",
+      "1615269028b4d8b9af",
+      "16152690830edc1264",
+      "16152694810a159836",
+      "1614976304dd716b9e",
+      "161526965263ccc36a",
+      "1542984882560"
+    ]
+  },
+  "presets": {
+    "Metal": {
+      "heading_color": "#1e2d7d",
+      "text_color": "#677279",
+      "accent_color": "#00badb",
+      "link_color": "#00badb",
+      "border_color": "#e1e3e4",
+      "background": "#f3f5f6",
+      "secondary_background": "#ffffff",
+      "error_color": "#ff0000",
+      "success_color": "#00aa00",
+      "primary_button_background": "#00badb",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#1e2d7d",
+      "secondary_button_text_color": "#ffffff",
+      "header_background": "#1e2d7d",
+      "header_text_color": "#ffffff",
+      "header_light_text_color": "#a3afef",
+      "header_accent_color": "#00badb",
+      "product_on_sale_accent": "#ee0000",
+      "product_in_stock_color": "#008a00",
+      "product_low_stock_color": "#ee0000",
+      "product_sold_out_color": "#8a9297",
+      "product_label_1_background": "#008a00",
+      "product_label_2_background": "#00a500",
+      "product_star_color": "#ffbd00",
+      "footer_background_color": "#f3f5f6",
+      "footer_heading_text_color": "#1e2d7d",
+      "footer_body_text_color": "#677279",
+      "footer_accent_color": "#00badb",
+      "base_text_font_size": 16,
+      "heading_font": "din_next_n5",
+      "text_font": "din_next_n4",
+      "underline_links": true,
+      "animation_image_zoom": true,
+      "search_mode": "product,article",
+      "show_vendor": true,
+      "show_secondary_image": true,
+      "product_price_position": "after_title",
+      "product_image_size": "natural",
+      "show_discount": true,
+      "discount_mode": "saving",
+      "show_color_swatch": false,
+      "show_inventory_quantity": false,
+      "low_inventory_threshold": 0,
+      "show_reviews_badge": false,
+      "cart_type": "drawer",
+      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_show_checkout_button": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "share_image": "",
+      "social_facebook": "",
+      "social_twitter": "",
+      "social_pinterest": "",
+      "social_instagram": "",
+      "social_vimeo": "",
+      "social_tumblr": "",
+      "social_youtube": "",
+      "social_linkedin": "",
+      "social_snapchat": "",
+      "social_fancy": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#00badb",
+      "checkout_button_color": "#00badb",
+      "checkout_error_color": "#ff0000",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": 140,
+            "mobile_logo_max_width": 100,
+            "navigation_menu": "main-menu",
+            "desktop_navigation_layout": "inline",
+            "desktop_navigation_open_trigger": "hover",
+            "navigation_phone_number": "Call us 000-000-0000",
+            "navigation_email": "info@yourwebsite.com",
+            "search_menu": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            },
+            "slide-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0",
+            "slide-1"
+          ],
+          "settings": {
+            "edge_to_edge": true,
+            "section_size": "preserve_ratio",
+            "cycle_speed": 5
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-5": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-0",
+            "collection-1",
+            "collection-2",
+            "collection-3",
+            "collection-4",
+            "collection-5"
+          ],
+          "settings": {
+            "title": "Our collections",
+            "link_title": "View all",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "featured-product": {
+          "type": "featured-product",
+          "settings": {
+            "product": "",
+            "title": "Featured product",
+            "selector_mode": "block",
+            "color_mode": "color",
+            "low_inventory_threshold": 0,
+            "zoom_effect": "outside",
+            "carousel_effect": "fade"
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_size": "small",
+            "default_view_layout": "grid",
+            "show_quick_view": "list",
+            "show_quick_buy": "list",
+            "quick_links": "",
+            "filter_type": "tag"
+          }
+        },
+        "recently-viewed-products": {
+          "type": "recently-viewed-products",
+          "settings": {
+            "title": "Recently viewed"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "low_inventory_threshold": 0,
+            "zoom_effect": "outside",
+            "carousel_effect": "fade",
+            "tab_page_1_handle": "",
+            "tab_page_2_handle": "",
+            "tab_page_3_handle": "",
+            "custom_security_badge": ""
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {}
+        },
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "settings": {
+            "background": "#1e2d7d",
+            "text_color": "#ffffff",
+            "text": "Announce something here",
+            "link": "",
+            "newsletter_button": "Subscribe & Save",
+            "newsletter_title": "Newsletter",
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984811767": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "",
+            "title": "Featured collection",
+            "products_count": 12,
+            "layout": "vertical",
+            "link_title": "View all"
+          }
+        },
+        "1542984842027": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984882560": {
+          "type": "blog-posts",
+          "settings": {
+            "blog": "news",
+            "title": "Blog posts"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "1542984811767",
+        "collection-list",
+        "1542984842027",
+        "featured-product",
+        "1542984882560"
+      ]
+    },
+    "Wood": {
+      "heading_color": "#3a2a2f",
+      "text_color": "#3a2a2f",
+      "accent_color": "#ff6128",
+      "link_color": "#ff6128",
+      "border_color": "#e7e2de",
+      "background": "#f7f4f2",
+      "secondary_background": "#ffffff",
+      "error_color": "#f71b1b",
+      "success_color": "#48b448",
+      "primary_button_background": "#ff6128",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#3a2a2f",
+      "secondary_button_text_color": "#ffffff",
+      "header_background": "#3a2a2f",
+      "header_text_color": "#ffffff",
+      "header_light_text_color": "#e9e2dd",
+      "header_accent_color": "#ff6128",
+      "product_on_sale_accent": "#ee0000",
+      "product_in_stock_color": "#008a00",
+      "product_low_stock_color": "#ee0000",
+      "product_sold_out_color": "#d1d1d4",
+      "product_label_1_background": "#ff6128",
+      "product_label_2_background": "#a95ebe",
+      "product_star_color": "#ffb647",
+      "footer_background_color": "#f7f4f2",
+      "footer_heading_text_color": "#3a2a2f",
+      "footer_body_text_color": "#3a2a2f",
+      "footer_accent_color": "#ff6128",
+      "base_text_font_size": 15,
+      "heading_font": "itc_avant_garde_gothic_n5",
+      "text_font": "basic_commercial_n4",
+      "underline_links": true,
+      "animation_image_zoom": true,
+      "search_mode": "product,article,page",
+      "show_vendor": true,
+      "show_secondary_image": true,
+      "show_discount": true,
+      "discount_mode": "percentage",
+      "product_price_position": "after_title",
+      "product_image_size": "square",
+      "show_color_swatch": false,
+      "show_inventory_quantity": true,
+      "low_inventory_threshold": 1,
+      "show_reviews_badge": false,
+      "cart_type": "drawer",
+      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_show_checkout_button": true,
+      "cart_show_free_shipping_threshold": true,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#f7f4f2",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#ff6128",
+      "checkout_button_color": "#ff6128",
+      "checkout_error_color": "#f71b1b",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": 140,
+            "mobile_logo_max_width": 100,
+            "navigation_menu": "main-menu",
+            "desktop_navigation_layout": "inline",
+            "desktop_navigation_open_trigger": "hover",
+            "navigation_phone_number": "Call us 000-000-0000",
+            "navigation_email": "info@yourwebsite.com",
+            "search_menu": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            },
+            "slide-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0",
+            "slide-1"
+          ],
+          "settings": {
+            "edge_to_edge": true,
+            "section_size": "preserve_ratio",
+            "cycle_speed": 5
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-5": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-0",
+            "collection-1",
+            "collection-2",
+            "collection-3",
+            "collection-4",
+            "collection-5"
+          ],
+          "settings": {
+            "title": "Our collections",
+            "link_title": "View all",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_size": "small",
+            "default_view_layout": "grid",
+            "show_quick_view": "list",
+            "show_quick_buy": "list",
+            "quick_links": "",
+            "filter_type": "tag"
+          }
+        },
+        "recently-viewed-products": {
+          "type": "recently-viewed-products",
+          "settings": {
+            "title": "Recently viewed"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "low_inventory_threshold": 0,
+            "zoom_effect": "outside",
+            "carousel_effect": "fade",
+            "tab_page_1_handle": "",
+            "tab_page_2_handle": "",
+            "tab_page_3_handle": "",
+            "custom_security_badge": ""
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {}
+        },
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "settings": {
+            "background": "#3a2a2f",
+            "text_color": "#ffffff",
+            "text": "Announce something here",
+            "link": "",
+            "newsletter_button": "Subscribe & Save",
+            "newsletter_title": "Newsletter",
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984811767": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "",
+            "title": "Featured collection",
+            "products_count": 12,
+            "layout": "vertical",
+            "link_title": "View all"
+          }
+        },
+        "1550833441117": {
+          "type": "collection-with-image",
+          "settings": {
+            "collection": "",
+            "products_count": 12,
+            "image": "",
+            "background": "#3a2a2f",
+            "text_color": "#ffffff",
+            "title": "Our best sellers",
+            "content": "Shop our most popular products for this season.",
+            "button_background": "#e95d2b",
+            "button_text_color": "#ffffff",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "1555314133560": {
+          "type": "promotion-list",
+          "blocks": {
+            "1555314133560-0": {
+              "type": "item",
+              "settings": {
+                "image": "",
+                "show_overlay": false,
+                "stretch_image": false,
+                "background": "#6f42ef",
+                "text_color": "#ffffff",
+                "title": "Your heading",
+                "content": "Tell more about your product, collection...",
+                "button_background": "#ffffff",
+                "button_text_color": "#6f42ef",
+                "button_text": "Learn more",
+                "button_link": ""
+              }
+            },
+            "1555314133560-1": {
+              "type": "item",
+              "settings": {
+                "image": "",
+                "show_overlay": false,
+                "stretch_image": false,
+                "background": "#fc2a68",
+                "text_color": "#ffffff",
+                "title": "Your heading",
+                "content": "Tell more about your product, collection...",
+                "button_background": "#ffffff",
+                "button_text_color": "#fc2a68",
+                "button_text": "Learn more",
+                "button_link": ""
+              }
+            },
+            "1555314133560-2": {
+              "type": "item",
+              "settings": {
+                "image": "",
+                "show_overlay": false,
+                "stretch_image": false,
+                "background": "#26c1ce",
+                "text_color": "#ffffff",
+                "title": "Your heading",
+                "content": "Tell more about your product, collection...",
+                "button_background": "#ffffff",
+                "button_text_color": "#26c1ce",
+                "button_text": "Learn more",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1555314133560-0",
+            "1555314133560-1",
+            "1555314133560-2"
+          ],
+          "settings": {
+            "expand_items": false,
+            "section_size": "medium",
+            "stack_mobile": false
+          }
+        },
+        "1542984882560": {
+          "type": "blog-posts",
+          "settings": {
+            "blog": "news",
+            "title": "Blog posts"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "1542984811767",
+        "1555314133560",
+        "collection-list",
+        "1550833441117",
+        "1542984882560"
+      ]
+    },
+    "Fabric": {
+      "heading_color": "#222021",
+      "text_color": "#616161",
+      "accent_color": "#cb1836",
+      "link_color": "#cb1836",
+      "border_color": "#e8e8e8",
+      "background": "#f5f5f5",
+      "secondary_background": "#ffffff",
+      "error_color": "#cf0e0e",
+      "success_color": "#1c7b36",
+      "primary_button_background": "#cb1836",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#222021",
+      "secondary_button_text_color": "#ffffff",
+      "header_background": "#222021",
+      "header_text_color": "#ffffff",
+      "header_light_text_color": "#e8e8e8",
+      "header_accent_color": "#cb1836",
+      "footer_background_color": "#222021",
+      "footer_heading_text_color": "#ffffff",
+      "footer_body_text_color": "#ffffff",
+      "footer_accent_color": "#cb1836",
+      "product_on_sale_accent": "#cf0e0e",
+      "product_in_stock_color": "#1c7b36",
+      "product_low_stock_color": "#cf0e0e",
+      "product_sold_out_color": "#8a9297",
+      "product_label_1_background": "#3f6ab1",
+      "product_label_2_background": "#8a44ae",
+      "product_star_color": "#ffbd00",
+      "base_text_font_size": 16,
+      "heading_font": "avenir_next_n7",
+      "text_font": "avenir_next_n5",
+      "underline_links": true,
+      "animation_image_zoom": true,
+      "search_mode": "product,article",
+      "show_vendor": true,
+      "show_secondary_image": true,
+      "show_discount": true,
+      "discount_mode": "percentage",
+      "product_price_position": "before_title",
+      "product_image_size": "square",
+      "show_color_swatch": true,
+      "show_inventory_quantity": true,
+      "low_inventory_threshold": 2,
+      "show_reviews_badge": true,
+      "cart_type": "drawer",
+      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_show_checkout_button": true,
+      "cart_show_free_shipping_threshold": true,
+      "cart_free_shipping_threshold": "49",
+      "social_facebook": "",
+      "social_twitter": "",
+      "social_pinterest": "",
+      "social_instagram": "",
+      "social_vimeo": "",
+      "social_tumblr": "",
+      "social_youtube": "",
+      "social_linkedin": "",
+      "social_snapchat": "",
+      "social_fancy": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#f5f5f5",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#cb1836",
+      "checkout_button_color": "#cb1836",
+      "checkout_error_color": "#ff0000",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": 140,
+            "mobile_logo_max_width": 100,
+            "navigation_menu": "main-menu",
+            "desktop_navigation_layout": "inline",
+            "desktop_navigation_open_trigger": "hover",
+            "navigation_phone_number": "Call us 000-000-0000",
+            "navigation_email": "info@yourwebsite.com",
+            "search_menu": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            },
+            "slide-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0",
+            "slide-1"
+          ],
+          "settings": {
+            "edge_to_edge": true,
+            "section_size": "preserve_ratio",
+            "cycle_speed": 5
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-5": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-0",
+            "collection-1",
+            "collection-2",
+            "collection-3",
+            "collection-4",
+            "collection-5"
+          ],
+          "settings": {
+            "title": "Our collections",
+            "link_title": "View all",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "featured-product": {
+          "type": "featured-product",
+          "settings": {
+            "product": "",
+            "title": "Featured product",
+            "selector_mode": "block",
+            "color_mode": "color",
+            "low_inventory_threshold": 0,
+            "zoom_effect": "outside",
+            "carousel_effect": "fade"
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_size": "small",
+            "default_view_layout": "grid",
+            "show_quick_view": "list",
+            "show_quick_buy": "list",
+            "quick_links": "",
+            "filter_type": "tag"
+          }
+        },
+        "recently-viewed-products": {
+          "type": "recently-viewed-products",
+          "settings": {
+            "title": "Recently viewed"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "low_inventory_threshold": 0,
+            "zoom_effect": "outside",
+            "carousel_effect": "fade",
+            "tab_page_1_handle": "",
+            "tab_page_2_handle": "",
+            "tab_page_3_handle": "",
+            "custom_security_badge": ""
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {}
+        },
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "settings": {
+            "background": "#222021",
+            "text_color": "#ffffff",
+            "text": "Announce something here",
+            "link": "",
+            "newsletter_button": "Subscribe & Save",
+            "newsletter_title": "Newsletter",
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984811767": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "",
+            "title": "Featured collection",
+            "products_count": 12,
+            "layout": "vertical",
+            "link_title": "View all"
+          }
+        },
+        "1542984842027": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984882560": {
+          "type": "blog-posts",
+          "settings": {
+            "blog": "news",
+            "title": "Blog posts"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "1542984811767",
+        "collection-list",
+        "1542984842027",
+        "featured-product",
+        "1542984882560"
+      ]
+    }
+  }
+}
